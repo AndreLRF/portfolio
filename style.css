@@ -66,6 +66,10 @@ a {
    margin: 30px 30px;
 }
 
+.a_text{
+    width: 110px;
+}
+
 .menu a{
     text-decoration: none;
     list-style-type: none;
@@ -141,11 +145,16 @@ a {
     align-items: center;
 }
 
+.e_logo{
+    width: 200px;
+}
+
 .e_logo img{
     width: 200px;
 }
 
 .e_text{
+    width: 400px;
     margin-left: 100px;
 }
 
