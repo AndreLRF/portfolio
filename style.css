@@ -12,7 +12,7 @@ a {
 /* homepage */
 .container{
     display: flex;
-    width: auto;
+    width: 1024px;
     background: #eFeFeF;
     margin: auto;
     flex-direction: column;
@@ -91,7 +91,7 @@ a {
 }
 
 .comp{
-    width: 1500px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -107,15 +107,18 @@ a {
     width: 100%;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: flex-end;
     justify-content: space-evenly;
-    margin: 18px 0 60px 0;
+    margin: 18px 0;
 }
 
 .item{
+    flex: 30%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 10px;
 }
 
 .logo img{
