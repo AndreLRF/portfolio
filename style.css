@@ -189,8 +189,11 @@ align-items: center;
 }
 
 .e_logo{
-    padding-left: 100px;
     width: 200px;
+}
+
+.fix{
+    padding-left: 100px;
 }
 
 .e_logo img{
