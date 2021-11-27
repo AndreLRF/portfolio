@@ -44,7 +44,7 @@ a {
 .a_foto{
     display: flex;
     justify-content: center;
-    width: 33%;
+    width: 50%;
     margin-right:50px;
 }
 
@@ -55,18 +55,18 @@ a {
 .a_texto{
     width: 50%;
     height: 100px;
-    padding-top: 150px;
+    padding-top: 200px;
     font-size: 20px;
 }
 .a_h{
     text-align: left;
-    width: 67%;
+    width: 50%;
     padding-left: 20px;
 }
 
 .a_h h1{
     margin: 0;
-    font-size: 55px;
+    font-size: 30px;
     letter-spacing: 1px;
 }
 
@@ -92,6 +92,7 @@ a {
 }
 
 .menu div{
+    padding-top: 9px;
     margin: 20px 20px;
 }
 
@@ -108,7 +109,7 @@ a {
 }
 
 .s_logo img{
-    width: 180px;
+    width: 255px;
 }
 
 .menu a{
